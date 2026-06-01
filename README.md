@@ -1,6 +1,6 @@
 BeigeUI is a barebones html interface that doesn't have persistent chat history, memory, search integration, RAG or anything at all. Just a messagebox, status sidebar and a field for system prompt if needed. This project was partially (and by partially I mean mostly) vibecoded with Claude over the span of 5 days.
 
-The goal was to make an UI that's basic, lightweight, and easy eanough to use for someone who is just getting into running LLMs on their own machine using ollama.
+The goal was to make a UI that's basic, lightweight, and easy eanough to use for someone who is just getting into running LLMs on their own machine using ollama.
 
 No setup or installation. Just download the HTML file and open it in your browser while you have a model deployed on Ollama.
 
