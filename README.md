@@ -5,3 +5,13 @@ The goal was to make an UI that's basic, lightweight, and easy eanough to use fo
 BeigeUI is a barebones html interface that doesn't have persistent chat history, memory, search integration, RAG or anything at all. Just a messagebox, status sidebar and a field for system prompt if needed. This project was partially (and by partially I mean mostly) vibecoded with Claude over the span of a week.
 
 Less than 24 hours after I was done with the final edits, Pewdiepie dropped another video, announcing Odysseus. If I knew he would release an Interface like this I wouldn't have really bothered going through all the hassle but now that it's done I'm uploading it anyway.
+
+<img width="800" height="615" alt="gif" src="https://github.com/user-attachments/assets/d595e2bd-0534-42f9-92d2-bd755b6c2149" />
+
+<img width="544" height="418" alt="brave_8LjwRF1JEy" src="https://github.com/user-attachments/assets/374390d7-9153-47c4-bd03-a10b1751bf61" />
+
+
+Features:
+- Automatically injects 'keep_alive = -1' on startup so your model doesn't offload after 5 minutes.
+- Image input field for models that support it.
+- Sidebar for info such as session token count and memory usage.
